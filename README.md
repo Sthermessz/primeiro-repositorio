@@ -1,7 +1,7 @@
 # primeiro-repositorio
 
 <html>
-<hl>Meu priemrio arquivo em HTML</hl>
+<hl>Meu primeiro arquivo em HTML</hl>
 </html>
 
 
